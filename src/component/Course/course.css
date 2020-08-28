@@ -1,0 +1,13 @@
+.main-course{
+    display: flex;
+}
+.course-cart{
+    width: 25%;
+
+}
+
+.course{
+    width: 80%;
+    height: 100%;
+    
+}
